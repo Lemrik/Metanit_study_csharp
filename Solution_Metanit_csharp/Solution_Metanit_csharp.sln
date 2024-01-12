@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metanit_csharp", "Metanit_csharp\Metanit_csharp.csproj", "{E19BA004-1765-45ED-89B1-0D53D0A8554C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metanit_csharp", "Metanit_csharp\Metanit_csharp.csproj", "{E19BA004-1765-45ED-89B1-0D53D0A8554C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перемеменные и константы", "Перемеменные и типы\Перемеменные и константы.csproj", "{CF42AB1B-DCAB-48E0-91A5-9A58075D7B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Перемеменные и константы", "Перемеменные и константы\Перемеменные и константы.csproj", "{5C0619CC-4022-4F6C-B4E7-51B3B0F666D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Типы данных", "Типы данных\Типы данных.csproj", "{1BF7DA1E-B10F-4DBE-B3AD-5DAA7E71527D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,14 @@ Global
 		{E19BA004-1765-45ED-89B1-0D53D0A8554C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E19BA004-1765-45ED-89B1-0D53D0A8554C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E19BA004-1765-45ED-89B1-0D53D0A8554C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF42AB1B-DCAB-48E0-91A5-9A58075D7B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF42AB1B-DCAB-48E0-91A5-9A58075D7B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF42AB1B-DCAB-48E0-91A5-9A58075D7B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF42AB1B-DCAB-48E0-91A5-9A58075D7B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0619CC-4022-4F6C-B4E7-51B3B0F666D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0619CC-4022-4F6C-B4E7-51B3B0F666D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0619CC-4022-4F6C-B4E7-51B3B0F666D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0619CC-4022-4F6C-B4E7-51B3B0F666D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF7DA1E-B10F-4DBE-B3AD-5DAA7E71527D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF7DA1E-B10F-4DBE-B3AD-5DAA7E71527D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF7DA1E-B10F-4DBE-B3AD-5DAA7E71527D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF7DA1E-B10F-4DBE-B3AD-5DAA7E71527D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

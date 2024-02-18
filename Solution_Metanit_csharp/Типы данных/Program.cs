@@ -27,7 +27,7 @@ Console.WriteLine($"short - System.Int16 - хранит целое число о
 
 ushort n3 = 1;
 ushort n4 = 102;
-Console.WriteLine($"ushort - System.UInt16 - хранит целое число от 0 до 65535 и занимает 2 байта \n {n1} \n {n2} \n");
+Console.WriteLine($"ushort - System.UInt16 - хранит целое число от 0 до 65535 и занимает 2 байта \n {n3} \n {n4} \n");
 
 int a = 10;
 int b = 0b101;  // бинарная форма b = 5
